@@ -1,0 +1,8 @@
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenameService.Framework\obj\Debug\CodenameService.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenameService.Framework\obj\Debug\CodenameService.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenameService.Framework\bin\Debug\CodenameService.Framework.dll
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenameService.Framework\bin\Debug\CodenameService.Framework.pdb
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenameService.Framework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenameService.Framework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenameService.Framework\obj\Debug\CodenameService.Framework.dll
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenameService.Framework\obj\Debug\CodenameService.Framework.pdb

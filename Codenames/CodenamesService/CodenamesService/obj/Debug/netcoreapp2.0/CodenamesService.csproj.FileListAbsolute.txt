@@ -1,0 +1,14 @@
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\bin\Debug\netcoreapp2.0\CodenamesService.deps.json
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\bin\Debug\netcoreapp2.0\CodenamesService.runtimeconfig.json
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\bin\Debug\netcoreapp2.0\CodenamesService.runtimeconfig.dev.json
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\bin\Debug\netcoreapp2.0\CodenamesService.dll
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\bin\Debug\netcoreapp2.0\CodenamesService.pdb
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\obj\Debug\netcoreapp2.0\CodenamesService.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\obj\Debug\netcoreapp2.0\CodenamesService.AssemblyInfoInputs.cache
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\obj\Debug\netcoreapp2.0\CodenamesService.AssemblyInfo.cs
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\obj\Debug\netcoreapp2.0\CodenamesService.dll
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\obj\Debug\netcoreapp2.0\CodenamesService.pdb
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\obj\Debug\netcoreapp2.0\CodenamesService.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\bin\Debug\netcoreapp2.0\StaticObjects\OriginalCards.txt
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\bin\Debug\netcoreapp2.0\Configuration.dll
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\bin\Debug\netcoreapp2.0\Configuration.pdb

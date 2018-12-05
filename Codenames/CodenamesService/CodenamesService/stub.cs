@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CodenamesService
+﻿namespace CodenamesService
 {
     public class stub
     {
@@ -10,16 +6,24 @@ namespace CodenamesService
         {
             CodenamesGame game = new CodenamesGame();
 
-            // Set Configuration
-            // TODO: Determine which game variation
-            // -- Original
-            // -- NSFW
-            // -- Pictures
+            // Get/Set Configuration
+            CodenamesConfiguration config = game.Config;
+            // Make changes to config here...
+            game.SetConfig(config);
 
             // Initialize Gameboard
             game.Initialize();
 
+            var cards = game.Cards;
 
+            // Get/Set Configuration
+            config[0].Selected = 1;
+            // Make changes to config here...
+            game.SetConfig(config);
+
+            game.Initialize();
+
+            cards = game.Cards;
         }
     }
 }

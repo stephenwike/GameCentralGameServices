@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C8962762-7BAE-4179-9C91-72BB1B466C14}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CodenameService.Framework</RootNamespace>
+    <AssemblyName>CodenameService.Framework</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.1\lib\net35\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\CodenamesService\CardCollection.cs">
+      <Link>CardCollection.cs</Link>
+    </Compile>
+    <Compile Include="..\CodenamesService\CodenameCard.cs">
+      <Link>CodenameCard.cs</Link>
+    </Compile>
+    <Compile Include="..\CodenamesService\CodenamesConfig.cs">
+      <Link>CodenamesConfig.cs</Link>
+    </Compile>
+    <Compile Include="..\CodenamesService\CodenamesConfiguration.cs">
+      <Link>CodenamesConfiguration.cs</Link>
+    </Compile>
+    <Compile Include="..\CodenamesService\CodenamesGame.cs">
+      <Link>CodenamesGame.cs</Link>
+    </Compile>
+    <Compile Include="..\CodenamesService\CodenamesRepository.cs">
+      <Link>CodenamesRepository.cs</Link>
+    </Compile>
+    <Compile Include="..\CodenamesService\CodenamesVersion.cs">
+      <Link>CodenamesVersion.cs</Link>
+    </Compile>
+    <Compile Include="..\CodenamesService\StaticObjects\CardData.cs">
+      <Link>CardData.cs</Link>
+    </Compile>
+    <Compile Include="..\CodenamesService\stub.cs">
+      <Link>stub.cs</Link>
+    </Compile>
+    <Compile Include="..\CodenamesService\Team.cs">
+      <Link>Team.cs</Link>
+    </Compile>
+    <Compile Include="..\CodenamesService\TeamColor.cs">
+      <Link>TeamColor.cs</Link>
+    </Compile>
+    <Compile Include="..\CodenamesService\TeamLayoutTile.cs">
+      <Link>TeamLayoutTile.cs</Link>
+    </Compile>
+    <Compile Include="..\CodenamesService\TileDetail.cs">
+      <Link>TileDetail.cs</Link>
+    </Compile>
+    <Compile Include="..\CodenamesService\Utility.cs">
+      <Link>Utility.cs</Link>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Configuration.Framework\Configuration.Framework.csproj">
+      <Project>{a49a83d4-b9f4-42c2-8786-01f0df7235a6}</Project>
+      <Name>Configuration.Framework</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

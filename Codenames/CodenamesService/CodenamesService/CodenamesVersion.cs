@@ -2,6 +2,6 @@
 {
     public enum CodenamesVersion
     {
-        Original, NSFW, Pictures
+        Original, DeepUndercover, Pictures
     }
 }

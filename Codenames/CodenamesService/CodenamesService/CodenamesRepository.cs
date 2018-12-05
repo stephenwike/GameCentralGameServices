@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace CodenamesService
+﻿namespace CodenamesService
 {
     internal sealed class CodenamesRepository
     {
-        private static Lazy<CardCollection> mOriginalCards;
-        private static Lazy<CardCollection> mNSFWCards;
-        private static Lazy<CardCollection> mPicturesCards;
+        private static CardCollection mOriginalCards;
+        private static CardCollection mDeepUndercoverCards;
+        private static CardCollection mPicturesCards;
 
         public static CardCollection OriginalCards
         {
@@ -14,23 +12,31 @@ namespace CodenamesService
             {
                 if (mOriginalCards == null)
                 {
-                    mOriginalCards = new Lazy<CardCollection>(() => Utility.ReadJsonFile("OriginalCards.json"));
+                    mOriginalCards = CardData.GenerateOriginal();
                 }
-                return mOriginalCards.Value;
+                return mOriginalCards;
             }
         }
-        public static CardCollection NSFWCards
+        public static CardCollection DeepUnderCoverCards
         {
             get
             {
-                return mNSFWCards.Value;
+                if (mDeepUndercoverCards == null)
+                {
+                    mDeepUndercoverCards = CardData.GenerateDeepUnderCover();
+                }
+                return mDeepUndercoverCards;
             }
         }
         public static CardCollection PicturesCards
         {
             get
             {
-                return mPicturesCards.Value;
+                if (mPicturesCards == null)
+                {
+                    mPicturesCards = CardData.GenerateOriginal(); // TODO: Get Picture Cards
+                }
+                return mPicturesCards;
             }
         }
     }

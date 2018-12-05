@@ -1,0 +1,6 @@
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\Configuration.Framework\obj\Release\Configuration.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\Configuration.Framework\obj\Release\Configuration.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\Configuration.Framework\bin\Release\Configuration.Framework.dll
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\Configuration.Framework\bin\Release\Configuration.Framework.pdb
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\Configuration.Framework\obj\Release\Configuration.Framework.dll
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\Configuration.Framework\obj\Release\Configuration.Framework.pdb

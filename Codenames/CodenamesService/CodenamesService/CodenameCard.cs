@@ -1,14 +1,12 @@
 ﻿namespace CodenamesService
 {
-    internal class CodenameCard
+    public class CodenameCard
     {
-
-
         internal CodenameCard(string name)
         {
             Name = name;
         }
 
-        internal string Name { get; set; }
+        public string Name { get; set; }
     }
 }

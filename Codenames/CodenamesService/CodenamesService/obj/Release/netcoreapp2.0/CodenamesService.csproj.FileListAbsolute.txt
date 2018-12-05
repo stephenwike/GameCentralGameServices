@@ -1,0 +1,12 @@
+C:\PublishGameServices\Codenames\netcoreapp2.0\CodenamesService.deps.json
+C:\PublishGameServices\Codenames\netcoreapp2.0\CodenamesService.dll
+C:\PublishGameServices\Codenames\netcoreapp2.0\CodenamesService.pdb
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\obj\Release\netcoreapp2.0\CodenamesService.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\obj\Release\netcoreapp2.0\CodenamesService.AssemblyInfoInputs.cache
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\obj\Release\netcoreapp2.0\CodenamesService.AssemblyInfo.cs
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\obj\Release\netcoreapp2.0\CodenamesService.dll
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\obj\Release\netcoreapp2.0\CodenamesService.pdb
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\CodenamesService\obj\Release\netcoreapp2.0\CodenamesService.csprojResolveAssemblyReference.cache
+C:\PublishGameServices\Codenames\netcoreapp2.0\CodenamesService.runtimeconfig.json
+C:\PublishGameServices\Codenames\netcoreapp2.0\CodenamesService.runtimeconfig.dev.json
+C:\PublishGameServices\Codenames\netcoreapp2.0\StaticObjects\OriginalCards.txt

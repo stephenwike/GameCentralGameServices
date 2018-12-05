@@ -2,7 +2,7 @@
 
 namespace CodenamesService
 {
-    internal class CardCollection : List<CodenameCard>
+    public class CardCollection : List<CodenameCard>
     {
         public CardCollection() { }
         public CardCollection(IEnumerable<CodenameCard> collection) : base(collection)

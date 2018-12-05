@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace CodenamesService
 {
-    internal class TeamLayoutTile
+    public class TeamLayoutTile
     {
         private Team StartingTeam { get; set; }
         private Team OpposingTeam { get; set; }
@@ -37,7 +37,7 @@ namespace CodenamesService
             switch (version)
             {
                 case CodenamesVersion.Original:
-                case CodenamesVersion.NSFW:
+                case CodenamesVersion.DeepUndercover:
                     {
                         startTeam = 9;
                         challengingTeam = 8;

@@ -1,0 +1,10 @@
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\Configuration\bin\Debug\netcoreapp2.0\Configuration.deps.json
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\Configuration\bin\Debug\netcoreapp2.0\Configuration.dll
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\Configuration\bin\Debug\netcoreapp2.0\Configuration.pdb
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\Configuration\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\Configuration\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\Configuration\obj\Debug\netcoreapp2.0\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\Configuration\obj\Debug\netcoreapp2.0\Configuration.AssemblyInfoInputs.cache
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\Configuration\obj\Debug\netcoreapp2.0\Configuration.AssemblyInfo.cs
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\Configuration\obj\Debug\netcoreapp2.0\Configuration.dll
+C:\Users\Stephen\Desktop\GameCentral\GameCentralGameServices\Codenames\CodenamesService\Configuration\obj\Debug\netcoreapp2.0\Configuration.pdb
